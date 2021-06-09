@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bolesjessica
 - 👀 I’m interested in all things data
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on anything...share your knowledge! :)
+- 💞️ I’m looking to collaborate on anything...share your knowledge and I will do the same! :)
 - 📫 How to reach me, bolesj@mst.edu 
 
 <!---
